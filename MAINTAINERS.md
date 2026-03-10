@@ -1,6 +1,6 @@
 # Organization Maintainers
 
-This GitHub organization is owned by WCJC Information Technology.
+This document describes who maintains the WCJC Information Technology GitHub organization and how ownership should be transferred if responsibilities change. The organization itself is owned by WCJC Information Technology.
 
 ## Current Maintainers
 
@@ -9,16 +9,19 @@ This GitHub organization is owned by WCJC Information Technology.
 
 Additional IT staff may be granted maintainer or owner access as needed.
 
-## Purpose
-
-The organization exists to ensure institutional technical assets are stored in a shared, version-controlled location rather than on individual workstations. This helps prevent institutional knowledge loss when staff roles change.
-
 ## Continuity Expectations
 
 At least two active IT staff members should retain owner access to the organization.
 
 If a maintainer leaves the institution, another IT staff member should be promoted to owner before their departure whenever possible.
 
-## Future Maintenance
+## Responsibility Transfer
 
-Future WCJC Information Technology staff responsible for reporting infrastructure, systems administration, automation, integrations, or internal technical documentation should maintain repositories in this organization.
+Responsibility for this organization should normally reside with the IT staff member responsible for:
+
+- reporting infrastructure
+- systems integrations and automation
+- data warehouse or SQL infrastructure
+- internal technical tooling or documentation
+
+If responsibilities shift within WCJC Information Technology, ownership of this GitHub organization should be transferred accordingly.

@@ -1,29 +1,32 @@
 # WCJC Information Technology GitHub
 
-This GitHub organization hosts repositories maintained by WCJC Information Technology. It is currently managed by members of the Information Systems team.
+This GitHub organization hosts repositories maintained by WCJC Information Technology.
 
-The purpose of this organization is to store institutional technical resources in a shared, version-controlled location so they remain accessible and maintainable over time, even if staffing changes occur.
+Its purpose is to store institutional technical resources in a shared, version-controlled location so they remain accessible and maintainable over time, even if staffing changes occur.
 
-## Repository Types
+## What You Will Find Here
 
 Repositories in this organization may include:
 
-- integration or automation files used to deploy or maintain system components
-- technical standards or internal tooling maintained by WCJC Information Technology
+- integrations or automation used to deploy or maintain system components
+- internal technical standards or tooling
 - SQL objects and generated documentation used by Institutional Research and Information Systems
 
-## Sensitive Information
+Most repositories are **private** and maintained by WCJC Information Technology staff.
 
-Repositories in this organization must not contain credentials or other secrets, including usernames/passwords, client secrets, API keys, or private keys.
+## Security
 
-These should be stored in our secrets management system.
+Repositories must **not contain credentials or other secrets**, including:
 
-## Access
+- usernames or passwords  
+- client secrets  
+- API keys  
+- private keys  
 
-Most repositories in this organization are private and maintained by WCJC Information Technology. Access is granted according to institutional need and available licenses.
+Secrets should be stored in the institution's approved secrets management system.
 
-## Ownership
+## Governance
 
-This organization is owned by WCJC Information Technology.
+Ownership and maintainer responsibilities are documented in:
 
-At least two IT staff members should maintain owner access to ensure continuity if staffing changes occur.
+- [Organization Maintainers](../MAINTAINERS.md)
