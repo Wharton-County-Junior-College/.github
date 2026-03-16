@@ -5,6 +5,7 @@ This document describes who maintains the WCJC Information Technology GitHub org
 ## Current Maintainers
 
 - Systems Analyst (primary maintainer)
+- Director of Networking and Server Services (organization co-owner)
 - Vice President of IT (organization co-owner)
 
 Additional IT staff may be granted maintainer or owner access as needed.
